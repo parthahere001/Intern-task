@@ -36,7 +36,7 @@ python3 manage.py runserver
 ```
 open the server link, before signing-in or registering visit http://127.0.0.1:8000/admin/ to log-in into the admin dashboard and add some data into the Products Section.
 
-Finally open http://127.0.0.1:8000/ and use.
+Finally open http://127.0.0.1:8000/ and use (Remember that when registering choose a password that is atlease 8 letters long and has some combination of letters - small and captal, numbers and special characters.
 
 ### Prerequisites
 
