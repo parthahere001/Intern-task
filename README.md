@@ -18,7 +18,7 @@ DATABASES = {
     }
 }
 ```
-Here replace <DB-name> with your desired Database name, DB username> with the username for your MongoDB database and <DB password> with the password for your MongoDb database
+Here replace <DB-name> with your desired Database name, <DB username> with the username for your MongoDB database and <DB password> with the password for your MongoDb database
 
 Start up Mongod
 
@@ -40,5 +40,5 @@ Finally open http://127.0.0.1:8000/ and use.
 
 ### Prerequisites
 
-Make sure to have Python (version 3.0.0 or onwards) and Virtual env set up on your local device
+Make sure to have Python (version 3.0.0 or onwards) and Virtual env set up on your local device.
 To view the data being saved to the MongoDB database use MongoDB Compass
