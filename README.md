@@ -18,7 +18,7 @@ DATABASES = {
     }
 }
 ```
-Here replace <DB-name> with your desired Database name, <DB username> with the username for your MongoDB database and <DB password> with the password for your MongoDb database
+Here replace *DB-name* with your desired Database name, *DB username* with the username for your MongoDB database and *DB password* with the password for your MongoDb database
 
 Start up Mongod
 
